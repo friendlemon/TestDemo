@@ -18,6 +18,7 @@ public class EntityManagerDemo {
 
     @Test
     public void test01() {
+        //hahahahaahha
         EntityManager entityManager = JpaUtil.getEntityManager();
         EntityTransaction tx = entityManager.getTransaction();
         tx.begin();
