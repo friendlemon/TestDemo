@@ -16,6 +16,6 @@ public class fdfedfd {
         String k = "ff";
         ArrayList<Object> list = new ArrayList<>();
         List<ArrayList<Object>> arrayLists = Arrays.asList(list);
-        
+
     }
 }
